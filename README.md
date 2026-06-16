@@ -1,5 +1,4 @@
 # Automated-Sludge-Detection-System-ESP32S3
-# Automated Sludge Detection System
 
 ## Overview
 
