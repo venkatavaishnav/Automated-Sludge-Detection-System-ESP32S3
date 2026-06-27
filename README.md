@@ -76,7 +76,7 @@ https://app.cirkitdesigner.com/project/7a4fab76-06d3-4a7d-aab9-a32f990dd914
 
 ## Arduino Code
 
-Sludge_Detection_System.ino
+https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blob/ad55b6f7f169f2185443f192bf13ee6cfc772453/Sludge_Detection_System.ino
 
 ## Project Report
 
