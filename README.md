@@ -79,7 +79,7 @@ https://app.cirkitdesigner.com/project/7a4fab76-06d3-4a7d-aab9-a32f990dd914
 https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blob/ad55b6f7f169f2185443f192bf13ee6cfc772453/Sludge_Detection_System.ino
 
 ## Project Report
-
+https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blob/4727b1e5673527128e280206438d6b451266a313/Project%20report.pdf
 
 ## Geber files
 <img width="1920" height="1020" alt="pcb_layout" src="https://github.com/user-attachments/assets/cdbdc256-e024-4537-bb3b-2ce33fcaa480" />
@@ -99,8 +99,7 @@ https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blo
 The project is programmed using Arduino IDE and Embedded C.
 
 ## Author
-
-**Diddi Venkata Vaishnav**
+Diddi Venkata Vaishnav
 24BES7052
 B.Tech in Electronics and Communication Engineering (Embedded Systems)
 VIT-AP University, Andhra Pradesh, India  
