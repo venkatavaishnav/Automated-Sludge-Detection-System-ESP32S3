@@ -85,7 +85,7 @@ https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blo
 <img width="1920" height="1020" alt="pcb_layout" src="https://github.com/user-attachments/assets/cdbdc256-e024-4537-bb3b-2ce33fcaa480" />
 
 ## Download Geber files 
-
+https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blob/9a645158dbc260e0fcd77880903204b8ab842ae3/Gerber_Files.zip
 ## Demo Video
 
 ## Future Scope
