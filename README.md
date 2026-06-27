@@ -76,11 +76,32 @@ https://app.cirkitdesigner.com/project/7a4fab76-06d3-4a7d-aab9-a32f990dd914
 
 ## Arduino Code
 
+Sludge_Detection_System.ino
+
+## Project Report
+
+
+## Geber files
+<img width="1920" height="1020" alt="pcb_layout" src="https://github.com/user-attachments/assets/cdbdc256-e024-4537-bb3b-2ce33fcaa480" />
+
+## Download Geber files 
+
+## Demo Video
+
+## Future Scope
+• Integrate real sludge and water quality sensors for accurate environmental monitoring.
+
+• Develop an IoT-based system using ESP32 Wi-Fi to enable remote monitoring and cloud data storage.
+
+• Implement a mobile application and automatic control system for real-time alerts and predictive maintenance.
 ## Software
 
 The project is programmed using Arduino IDE and Embedded C.
 
-### Libraries Used
+## Author
 
-```cpp
-No external libraries required
+**Diddi Venkata Vaishnav**
+24BES7052
+B.Tech in Electronics and Communication Engineering (Embedded Systems)
+VIT-AP University, Andhra Pradesh, India  
+
