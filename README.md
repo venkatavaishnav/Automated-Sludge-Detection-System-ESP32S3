@@ -74,6 +74,8 @@ The PCB was designed using EasyEDA.
 
 https://app.cirkitdesigner.com/project/7a4fab76-06d3-4a7d-aab9-a32f990dd914
 
+## Arduino Code
+
 ## Software
 
 The project is programmed using Arduino IDE and Embedded C.
