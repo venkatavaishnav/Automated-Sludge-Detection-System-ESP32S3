@@ -99,8 +99,10 @@ https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blo
 The project is programmed using Arduino IDE and Embedded C.
 
 ## Author
-Diddi Venkata Vaishnav
-24BES7052
-B.Tech in Electronics and Communication Engineering (Embedded Systems)
-VIT-AP University, Andhra Pradesh, India  
+**Diddi Venkata Vaishnav**<br>
+Registration Number: 24BES7052<br>
+B.Tech in Electronics and Communication Engineering (Embedded Systems)<br>
+VIT-AP University, Andhra Pradesh, India<br>
+Email: venkatadvaishnav@gmail.com<br>
 
+**Areas of Interest:** Embedded Systems, IoT, PCB Design, and Environmental Monitoring Systems.
