@@ -60,6 +60,8 @@ This project improves monitoring efficiency and reduces the need for manual insp
    - Buzzer turns OFF
 
 ---
+## Circuit Diagram 
+<img width="800" height="398" alt="cricuit diagram" src="https://github.com/user-attachments/assets/14c3142a-edad-478f-aa31-6211e7952faa" />
 
 ## PCB Design
 
@@ -68,6 +70,9 @@ The PCB was designed using EasyEDA.
 ### PCB Layout
 <img width="1920" height="1020" alt="Screenshot 2026-06-13 193125" src="https://github.com/user-attachments/assets/7f34c54f-7e62-4c07-b5f7-c3597b4f0704" />
 ---
+## Circuit Simulation Link
+
+https://app.cirkitdesigner.com/project/7a4fab76-06d3-4a7d-aab9-a32f990dd914
 
 ## Software
 
