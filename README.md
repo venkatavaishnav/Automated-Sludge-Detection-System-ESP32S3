@@ -41,7 +41,7 @@ This project improves monitoring efficiency and reduces the need for manual insp
 |------------|------------|
 | Green LED | GPIO 22 |
 | Red LED | GPIO 18 |
-| Buzzer | GPIO 2 |
+| Buzzer | GPIO 23 |
 | Potentiometer Output | GPIO 35 |
 
 ---
