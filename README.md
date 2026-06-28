@@ -87,7 +87,7 @@ https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blo
 ## Download Geber files 
 https://github.com/venkatavaishnav/Automated-Sludge-Detection-System-ESP32S3/blob/9a645158dbc260e0fcd77880903204b8ab842ae3/Gerber_Files.zip
 ## Demo Video
-
+https://docs.google.com/videos/d/1CtogzrRBeb0V2ocwBjEYenevcNWWtV0yQ8TKDpfp-kE/edit?usp=sharing
 ## Future Scope
 • Integrate real sludge and water quality sensors for accurate environmental monitoring.
 
